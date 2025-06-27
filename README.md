@@ -17,9 +17,9 @@ This is a **fork of [zelenskiy-troll-virus](https://github.com/2207-code/zelensk
 ---
 
 ## ⚠️ Важно / Important  
-**Автор не несет ответственности за использование этого скрипта. Используйте только для тестирования и с разрешения!**  
+**Автор не несет ответственности за использование этого скрипта.**  
 
-**The author is not responsible for this script's use. Use only for testing and with permission!**  
+**The author is not responsible for this script's use.**  
 
 ---
 

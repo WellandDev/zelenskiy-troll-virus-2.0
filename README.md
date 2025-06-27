@@ -1,4 +1,4 @@
-# Zelenskiy Troll Virus 🇷🇺🇺🇸  
+# Zelenskiy Troll Virus 
 **A trolling script for fun**  
 
 ---
